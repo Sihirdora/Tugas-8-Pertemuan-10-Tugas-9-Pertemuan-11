@@ -63,7 +63,7 @@ Proses login memungkinkan pengguna diverifikasi oleh server menggunakan email da
 a. Mengisi Form Login
 Ini adalah tampilan di mana pengguna memasukkan kredensialnya.
 
-Langkah 1: Pengguna memasukkan Email (dedes@email.com dalam contoh) dan Password.
+Langkah 1: Pengguna memasukkan Email (fei@email.com dalam contoh) dan Password.
 
 Langkah 2: Pengguna menekan tombol Login.
 
