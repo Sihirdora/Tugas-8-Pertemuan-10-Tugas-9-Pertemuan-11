@@ -56,6 +56,7 @@ Data Dummy: Saat ini, data produk (ID 1, 2, 3) masih berupa data dummy yang dima
 # Tugas 9 - Pertemuan 11
 
 <img width="366" height="813" alt="image" src="https://github.com/user-attachments/assets/a7cb8f0f-8b82-436a-87bb-91d3f8f03665" />
+
 🔐 Proses Login
 Proses login memungkinkan pengguna diverifikasi oleh server menggunakan email dan password yang dimasukkan, dan kemudian mendapatkan token otorisasi.
 
